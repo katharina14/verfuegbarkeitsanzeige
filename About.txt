@@ -17,7 +17,7 @@ Neues Ziel?
 ## Einleitung
 Der folgende Text befasst sich mit dem Vergleich verschiedener Verfügbarkeitsanzeigen in Bibliothekssystemen.
 Bibliothekssysteme gibt es mehrere, die unten aufgeführten, LBS; LIBERO; aDIS; Allegro; ORBIS und WinBIAP, geben nur einen kleinen Einblick. Die genannten Bibliothekysyteme bieten wie die meisten anderen Bibliotheksysteme auch Katalogisierung, Ausleih-, Erwerbungsystem und den Katalog. Das ist für Nutzer und Mitarbeiter gleichermaßen komfortabel. 
-DAIA:
+## DAIA:
 DAIA bedeutet “Document Availability Information API (Programmierschnittstelle). Entwickelt wurde es vom vgl.“ GBV, HeBIS und Beluga Projekt der Hambuger Bibliotheken“(https://www.gbv.de/wikis/cls/Verf%C3%BCgbarkeitsrecherche_mit_DAIA Mitte ersten Absatz)
 „Das Ziel ist es eine einfache und einheitliche Methode zu schaffen, um bei beliebiges Bibliothekssystemen anzufragen, ob ein bestimmter Titel zur Zeit verfügbar, d.h. einsehbar oder ausleihbar,ist.“(https://www.gbv.de/wikis/cls/Verf%C3%BCgbarkeitsrecherche_mit_DAIA Ende ersten Absatz)
 DAIA beschränkt sich bei der Verfügbarkeitsanzeige ausschließlich auf ein angewähltes Haus. Im Regelfall ruft man den Katalog des Hauses auf welches man auf suchen will und recheriert im dortigen Opac. Das heißt der Nutzer stellt auf elektronischen Wege die Anfrage, ob der gesuchten Titel sich im Hause befindet. Durch das integrierte DAIA Datenmodell sowie die Programmierschnittstelle(API) gibt das System innerhalb eines kurzen Augenblickes die vom Nutzer gesuchte Information zurürck. Lautet die, das der gesuchte Titel nicht im Hause, sondern entliehen ist, gibt es die Möglichkeit der Vormerkung. 
@@ -31,7 +31,7 @@ Freier Zugriff: Onlinetexte und Datenbanken ohne Lizenzeinschränkungen“
 http://www.gbv.de/wikis/cls/images/c/ce/Daiamodel-extract.png Bild DAIA model)
 ### Verfügbarkeitsanzeigen in Bibliotheksystemen
 ## LBS: 
-LBS arbeitet bereits mit DAIA 
+LBS arbeitet bereits mit DAIA.
 In der Trefferübersicht ist nicht zu erkennen ob sich ein Titel in der Bibliothek befindet, entliehen oder vorgemerkt ist. Zu diesen konkreten Informationen kommt man erst durch anwählen des gewünschten Titel.
 Bei einem Titel der sich in der Bibliothek befindet sieht es dann so aus.
 ![Selbstentnehmen.jpg](images/Selbstentnehmen.jpg)
