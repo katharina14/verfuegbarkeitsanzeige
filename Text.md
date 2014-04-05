@@ -74,6 +74,6 @@ Als ein mögliches neues Ziel könnte man sich überlegen, die Entleihbarkeit be
 Bei anderen Systemen wird die Möglichkeit der Vormerkung/Bestellung erst angeboten nach der Anmeldung.
 Ein weiteres Ziel wäre wie oben beschrieben in der Trefferübersicht eine weitere Spalte anzufügen um dem Nutzer gleich aufzuzeigen ob der Titel im Haus ist oder ob er ihn bestellen/vormerken kann.
 Ein großes Ziel wäre eine einheitliche Formulierung in den Verfügbarkeitsanzeigen zu schaffen. Derzeitig ist sehr offen formuliert.
-![Selbstentnehmen.jpg](images/Selbstentnehmen.jpg)
+
 
 
