@@ -6,31 +6,35 @@
 @misc{.b,
  title = {Screenshot aDIS},
  url = {http://www.muenchner-stadtbibliothek.de/}
- comment={ }
+ comment={gesucht mit Harry}
 }
 
 
 @misc{.c,
  title = {Screenshot LBS},
  url = {http://opac.tib.uni-hannover.de/DB=11/LNG=DU/SID=b956b89e-a/CMD?ACT=SRCHA\&IKT=1016\&SRT=YOP\&TRM=harry}
+ comment={gesucht mit Harry}
 }
 
 
 @misc{.d,
  title = {Screenshot LIBERO},
  url = {http://libero.ub.uni-konstanz.de/libero/WebOpac.cls?DATA=KON}
+ comment={gesucht mit Harry}
 }
 
 
 @misc{.e,
  title = {Screenshot ORBIS},
  url = {http://plus.orbis-oldenburg.de:1701/primo_library/libweb/action/search.do?dscnt=1\&simple_submit=\%3F\&dstmp=1395334567317\&vl\%28freeText0\%29=csc\&vid=ORB_V2\&fromLogin=true}
+ comment={gesucht mit Harry}
 }
 
 
 @misc{.f,
  title = {Screenshots Allegro},
  url = {http://kataloge-bz-lueneburg.de/nienburg/webopac/}
+ comment={gesucht mit Harry}
 }
 
 
