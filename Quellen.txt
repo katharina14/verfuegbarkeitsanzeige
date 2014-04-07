@@ -45,6 +45,7 @@
  editor = {gruenderszene.de},
  title = {Application-Programming-Interface (API): Die API ist eine Schnittstelle, die ein Softwaresystem bereitstellt, um dieses in andere Programme einzubinden},
  url = {http://www.gruenderszene.de/lexikon/begriffe/application-programming-interface-api}
+ comment={Eine Definition,für Laien schwierig zu verstehen.}
 }
 
 
@@ -54,6 +55,7 @@
  url = {http://www.hebis.de/de/1publikationen/hebis-cocktail/bibtag2009/sonderausgabe_2009.pdf},
  pages = {5--6},
  booktitle = {Quellen}
+ comment={gut geschrieben,nachvollziehbar,verständlich }
 }
 
 
@@ -62,6 +64,7 @@
  editor = {{Verbund-Wiki GBV}},
  year = {14. M{\"a}rz 2014 um 12:38 Uhr},
  title = {Verf{\"u}gbarkeitsrecherche mit DAIA},
- url = {https://www.gbv.de/wikis/cls/Verf\%C3\%BCgbarkeitsrecherche_mit_DAIA}
+ url = {https://www.gbv.de/wikis/cls/Verf%C3%BCgbarkeitsrecherche_mit_DAIA}
+ comment={Gut zur Vertiefung da es ausführlich ist}
 }
 
