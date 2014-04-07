@@ -38,7 +38,10 @@
  title = {ScreenshotWinBIAP},
  url = {http://www.kreisfahrbuecherei-celle.de/}
 }
-
+@misc{.h,
+title ={DAIA Datenmodell},
+url = {http://www.gbv.de/wikis/cls/images/c/ce/Daiamodel-extract.png}
+}
 
 @misc{gruenderszene.de.,
  author = {gruenderszene.de},
