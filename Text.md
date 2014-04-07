@@ -30,7 +30,7 @@ Freier Zugriff: Onlinetexte und Datenbanken ohne Lizenzeinschränkungen“
 ![Daiamodel-extract.png](images/Daiamodel-extract.png)
 http://www.gbv.de/wikis/cls/images/c/ce/Daiamodel-extract.png Bild DAIA model)
 ### Verfügbarkeitsanzeigen in Bibliotheksystemen
-## LBS: 
+## 1. LBS: 
 LBS arbeitet bereits mit DAIA.
 In der Trefferübersicht ist nicht zu erkennen ob sich ein Titel in der Bibliothek befindet, entliehen oder vorgemerkt ist. Zu diesen konkreten Informationen kommt man erst durch anwählen des gewünschten Titel.
 Bei einem Titel der sich in der Bibliothek befindet sieht es dann so aus.
@@ -43,19 +43,19 @@ Weitere Möglichkeiten wie die Verfügbarkeit im Katalog aussieht.
 ## b) der Präsenzbestand
 ![Praesenz.jpg](images/Praesenz.jpg)
 Die hier aufgeführten Verfügbarkeitsmöglichkeiten finden sich fast überall wieder, je nach Bibliothekssystem ist es anders aufgezeigt und formuliert.  
-## ORBIS
+##2. ORBIS
 Im Bibliothekssystem ORBIS ist die Übersicht wie im LBS, auch hier muss erst der gewünschte Titel ausgewählt werden um die gesuchte Information zu bekommen.
 Ein auffälliger Unterschied zum LBS ist die Spalte „Hinweis“ in dieser findet der Nutzer die Information wie lange er den Titel ausleihen kann. Im ORBIS gibt es folgende Ansichten.
 ## a)die Kurzausleihe 
 ![Kurzausleihe.jpg](images/Kurzausleihe.jpg)
-## Allegro 3.1:
+## 3. Allegro 3.1:
 Auch hier gibt die Trefferübersicht selbst nicht die vom Nutzer gesuchte Antwort, es verhält sich hier wie im LBS. In den oben genannten Beispielen unterscheidet sich Allegro durch andere Bezeichnungen der Verfügbarkeit.
-## LIBERO: 
+## 4. LIBERO: 
 Bei LIBERO verhält es sich wie bei Allegro.
-## WinBIAP:
+## 5. WinBIAP:
 In dem Bibliothekssystem WinBIAP findet man in der Trefferübersicht eine erste Antwort auf die Frage der Verfügbarkeit.
 ![_bersichtkurz.jpg](images/_bersichtkurz.jpg)
-## aDIS: 
+## 6. aDIS: 
 aDIS hat in der Trefferübersicht Symbole die gedeutet werden können, die Schwierigkeit ist das ein Symbol mehrfach belegt ist, mit verschiedenen Verfügbarkeitsmöglichekeiten
 ## Vergleich DAIA zu anderen Systemen
 ## Vergleich mit DAIA
