@@ -27,7 +27,8 @@ Die lokaleAusleihbarkeit: Datenbanken die über den Bibliotheksaccount genutzt w
 Externe Ausleihbarkeit / Fernleihe: Auch Datenbanken, die von Nutzern anderer Einrichtungen remote genutzt werden dürfen, zum Beispiel Nationallizenzen 
 Freier Zugriff: Onlinetexte und Datenbanken ohne Lizenzeinschränkungen“
 (http://www.hebis.de/de/1publikationen/hebis-cocktail/bibtag2009/sonderausgabe_2009.pdf ;S. 5/6; Die Verfügbarkeit in DAIA)
-1.![Daiamodel-extract.png](images/Daiamodel-extract.png)
+1.
+![Daiamodel-extract.png](images/Daiamodel-extract.png)
 http://www.gbv.de/wikis/cls/images/c/ce/Daiamodel-extract.png Bild DAIA model)
 ### Verfügbarkeitsanzeigen in Bibliotheksystemen
 ## 1. LBS: 
@@ -52,7 +53,7 @@ Im Bibliothekssystem ORBIS ist die Übersicht wie im LBS, auch hier muss erst de
 Ein auffälliger Unterschied zum LBS ist die Spalte „Hinweis“ in dieser findet der Nutzer die Information wie lange er den Titel ausleihen kann. Im ORBIS gibt es folgende Ansichten.
 ## a)die Kurzausleihe 
 6.
-![](images/Kurzausleihe.jpg)
+![Kurzausleihe.JPG](images/Kurzausleihe.jpg)
 ## 3. Allegro 3.1:
 Auch hier gibt die Trefferübersicht selbst nicht die vom Nutzer gesuchte Antwort, es verhält sich hier wie im LBS. In den oben genannten Beispielen unterscheidet sich Allegro durch andere Bezeichnungen der Verfügbarkeit.
 ## 4. LIBERO: 
