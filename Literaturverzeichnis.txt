@@ -1,0 +1,53 @@
+Literaturverzeichnis
+@misc{BibliotheksserviceZentrumBadenWurttemberg(BSZ.09.April2014,
+ author = {{Bibliotheksservice-Zentrum Baden-W{\"u}rttemberg (BSZ}},
+ editor = {{Bibliotheksservice-Zentrum Baden-W{\"u}rttemberg (BSZ}},
+ year = {09.April 2014},
+ title = {Document Availability Information API: (DAIA)},
+ url = {https://wiki.bsz-bw.de/doku.php?id=l-team:daia:start},
+ urldate = {09.04.2014}
+}
+
+
+@misc{gruenderszene.de.,
+ author = {gruenderszene.de},
+ title = {Application-Programming-Interface: (API)},
+ url = {http://www.gruenderszene.de/lexikon/begriffe/application-programming-interface-api},
+ urldate = {09.04.2014}
+}
+
+
+@misc{Reh.,
+ author = {Reh, Uwe},
+ editor = {{Hessisches BibliotheksInformations System}},
+ title = {DAIA: Ein neuer Baustein f{\"u}r Bibliotheken im Web 2.0},
+ url = {http://www.hebis.de/de/1publikationen/hebis-cocktail/bibtag2009/sonderausgabe_2009.pdf},
+ urldate = {09.04.2014},
+ number = {S. 5-6}
+}
+
+
+@misc{Reh.14.Marz2014,
+ author = {Reh, Uwe and Voss, Jakob},
+ editor = {{Verbund-Wiki GBV}},
+ year = {14. M{\"a}rz 2014},
+ title = {Verf{\"u}gbarkeitsrecherche mit DAIA},
+ url = {https://www.gbv.de/wikis/cls/Verf\%C3\%BCgbarkeitsrecherche_mit_DAIA},
+ urldate = {09.04.2014}
+}
+
+
+@misc{Reh.18.Marz2013,
+ author = {Reh, Uwe and Voss, Jakob},
+ editor = {{Verbund-Wiki GBV}},
+ year = {18. M{\"a}rz 2013},
+ title = {DAIA: Document Availability Information API},
+ url = {http://www.gbv.de/wikis/cls/DAIA_-_Document_Availability_Information_API},
+ urldate = {09.04.2014}
+}
+
+
+
+
+
+
