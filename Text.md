@@ -47,7 +47,7 @@ Die hier aufgeführten Verfügbarkeitsmöglichkeiten finden sich fast überall w
 Im Bibliothekssystem ORBIS ist die Übersicht wie im LBS, auch hier muss erst der gewünschte Titel ausgewählt werden um die gesuchte Information zu bekommen.
 Ein auffälliger Unterschied zum LBS ist die Spalte „Hinweis“ in dieser findet der Nutzer die Information wie lange er den Titel ausleihen kann. Im ORBIS gibt es folgende Ansichten.
 ## a)die Kurzausleihe 
-6.![Kurzausleihe.jpg](images/Kurzausleihe.jpg)
+6.![](images/Kurzausleihe.jpg)
 ## 3. Allegro 3.1:
 Auch hier gibt die Trefferübersicht selbst nicht die vom Nutzer gesuchte Antwort, es verhält sich hier wie im LBS. In den oben genannten Beispielen unterscheidet sich Allegro durch andere Bezeichnungen der Verfügbarkeit.
 ## 4. LIBERO: 
