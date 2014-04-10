@@ -2,4 +2,3 @@
 
 Text.md
 Verzeichnisse.txt
-Content.txt
