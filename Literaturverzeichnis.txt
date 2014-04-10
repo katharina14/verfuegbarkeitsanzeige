@@ -1,53 +1,91 @@
-Literaturverzeichnis
-@misc{BibliotheksserviceZentrumBadenWurttemberg(BSZ.09.April2014,
- author = {{Bibliotheksservice-Zentrum Baden-W{\"u}rttemberg (BSZ}},
+@online{BibliotheksserviceZentrumBadenWurttemberg(BSZ.09.April2014,
  editor = {{Bibliotheksservice-Zentrum Baden-W{\"u}rttemberg (BSZ}},
  year = {09.April 2014},
- title = {Document Availability Information API: (DAIA)},
+ title = {Document Availability Information API},
  url = {https://wiki.bsz-bw.de/doku.php?id=l-team:daia:start},
- urldate = {09.04.2014}
+ urldate = {2014-04-09},
+ userb = {Document Availability Information API (2014)},
+ userc = {Kurze Einleitung zum Thema ok, Verlinkungen teilweise hilfreich},
+ organization = {{Universit{\"a}t Konstanz}},
+ subtitle = {(DAIA)}
 }
 
 
-@misc{gruenderszene.de.,
- author = {gruenderszene.de},
- title = {Application-Programming-Interface: (API)},
+@online{gruenderszene.de.,
+ title = {Application-Programming-Interface},
  url = {http://www.gruenderszene.de/lexikon/begriffe/application-programming-interface-api},
- urldate = {09.04.2014}
+ urldate = {2014-04-09},
+ userb = {Application-Programming-Interface (oJ)},
+ userc = {Definition schwierig zu verstehen,},
+ organization = {gruenderszene.de},
+ subtitle = {(API)}
 }
 
 
-@misc{Reh.,
+@online{Reh.,
  author = {Reh, Uwe},
  editor = {{Hessisches BibliotheksInformations System}},
- title = {DAIA: Ein neuer Baustein f{\"u}r Bibliotheken im Web 2.0},
+ title = {DAIA},
  url = {http://www.hebis.de/de/1publikationen/hebis-cocktail/bibtag2009/sonderausgabe_2009.pdf},
- urldate = {09.04.2014},
- number = {S. 5-6}
+ urldate = {2014-04-09},
+ number = {S. 5-6},
+ userb = {DAIA(2009)},
+ userc = {Hilfreich},
+ organization = {Verbundzentrale},
+ subtitle = {Ein neuer Baustein f{\"u}r Bibliotheken im Web 2.0}
 }
 
 
-@misc{Reh.14.Marz2014,
+@online{Reh.18.Marz2013,
+ author = {Reh, Uwe and Voss, Jakob},
+ editor = {{Verbund-Wiki GBV}},
+ year = {18. M{\"a}rz 2013},
+ title = {DAIA},
+ url = {http://www.gbv.de/wikis/cls/DAIA_-_Document_Availability_Information_API},
+ urldate = {2014-04-09},
+ userb = {DAIA(2013)},
+ userc = {fremdaprachig, hilfreich bei der Installation},
+ organization = {GBV},
+ subtitle = {Document Availability Information API}
+}
+
+
+@online{Reh.14.Marz2014,
  author = {Reh, Uwe and Voss, Jakob},
  editor = {{Verbund-Wiki GBV}},
  year = {14. M{\"a}rz 2014},
  title = {Verf{\"u}gbarkeitsrecherche mit DAIA},
  url = {https://www.gbv.de/wikis/cls/Verf\%C3\%BCgbarkeitsrecherche_mit_DAIA},
- urldate = {09.04.2014}
+ urldate = {2014-04-09},
+ }
+ 
+ @online{aStecangewandteSystemtechnikGmbH.,
+ editor = {{|a|S|tec| angewandte Systemtechnik GmbH}},
+ title = {aDIS},
+ url = {https://ssl.muenchen.de/aDISWeb/app?service=direct/0/Home/\$DirectLink\&sp=SOPAC\&sp=SAKFreitext\%20harry},
+ userc = {aDIS(oJ)}
 }
 
 
-@misc{Reh.18.Marz2013,
- author = {Reh, Uwe and Voss, Jakob},
- editor = {{Verbund-Wiki GBV}},
- year = {18. M{\"a}rz 2013},
- title = {DAIA: Document Availability Information API},
- url = {http://www.gbv.de/wikis/cls/DAIA_-_Document_Availability_Information_API},
- urldate = {09.04.2014}
+@online{BibliotheksEDVSysteme.2014,
+ editor = {{Bibliotheks EDV-Systeme}},
+ year = {{\copyright} 2014},
+ title = {LIBERO},
+ url = {http://libero.ub.uni-konstanz.de/libero/WebOpac.cls?DATA=KON},
+ urldate = {2014-04-09},
+ userc = {LIBERO({\copyright} 2014)},
+ organization = {{LIB-IT GmbH}}
+}
+
+
+@online{BuchereiverbandLuneburgStadee.V..,
+ title = {Allegro},
+ url = {http://kataloge-bz-lueneburg.de/nienburg/webopac/},
+ urldate = {2014-04-09},
+ userc = {Allegro(oJ)},
+ organization = {{B{\"u}chereiverband L{\"u}neburg-Stade e.V.}}
 }
 
 
 
-
-
-
+ 
