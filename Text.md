@@ -34,7 +34,7 @@ http://www.gbv.de/wikis/cls/images/c/ce/Daiamodel-extract.png Bild DAIA model)
 LBS arbeitet bereits mit DAIA.
 In der Trefferübersicht ist nicht zu erkennen ob sich ein Titel in der Bibliothek befindet, entliehen oder vorgemerkt ist. Zu diesen konkreten Informationen kommt man erst durch anwählen des gewünschten Titel.
 Bei einem Titel der sich in der Bibliothek befindet sieht es dann so aus.
-2. ![Selbstentnehmen.jpg](images/Selbstentnehmen.jpg)!
+2. ![Selbstentnehmen.jpg](images/Selbstentnehmen.jpg)
 Bei Titeln die entliehen sind findet der Nutzer das eigentliche Abgabedatum des Titels vor. Die Möglichkeit für den Nutzer diesen Titel schnellst möglich zu bekommen ist die Vormerkung. 
 3.![Vormerken1.jpg](images/Vormerken1.jpg)
 Weitere Möglichkeiten wie die Verfügbarkeit im Katalog aussieht.
