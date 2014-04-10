@@ -45,7 +45,7 @@ Literaturverzeichnis
  url = {http://www.gbv.de/wikis/cls/DAIA_-_Document_Availability_Information_API},
  urldate = {09.04.2014}
 }
-Abbildungsverzeichnis
+
 
 
 
