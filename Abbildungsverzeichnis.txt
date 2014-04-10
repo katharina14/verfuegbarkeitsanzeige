@@ -1,0 +1,5 @@
+> These files will be included in your book:
+
+Text.md
+Literaturverzeichnis.txt
+Abbildungsverzeichnis.txt
