@@ -56,7 +56,7 @@ Die hier aufgeführten Verfügbarkeitsmöglichkeiten finden sich fast überall w
 Im Bibliothekssystem ORBIS gleichtdie Übersicht der im LBS: auch hier muss erst der gewünschte Titel ausgewählt werden, um die gesuchte Information zu bekommen.
 Ein auffälliger Unterschied zum LBS ist jedoch die Spalte „Hinweis“. In dieser findet der Nutzer die Information, für welchen Zeitraum er den Titel ausleihen kann. Im Bibliotheksystemm ORBIS gibt es folgende Ansichten:
 
-## a)die Kurzausleihe 
+## a) die Kurzausleihe 
 6.
 ![Kurzausleihe.JPG](images/Kurzausleihe.jpg)
 [Orbis(oJ)]
