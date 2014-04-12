@@ -1,17 +1,15 @@
 ###Inhaltsverzeichnis
 Einleitung
-Verfügbarkeitsanzeigen in Bibliotheksystemen
-
+-Verfügbarkeitsanzeigen in Bibliotheksystemen
 1. Lokale Bibliothekssystem (LBS)
-2. Oldenburgisches Regionales Bibliotheks- und Informationssystem(Lokale  	 Bibliothekssystem (ORBIS)
+2. Oldenburgisches Regionales Bibliotheks- und Informationssystem (ORBIS)
 3. Allegro
 4. Integriertes Bibliotheks-Management-System (LIBERO)
 5. WIN Bibliothek-, Informations- und Ausleihsystem (WinBIAP)
 6. Bibliotheksmanagementsystem aDIS/BMS (aDIS)
-
-Vefügbarkeitsanzeigen: Vergleich mit der Verfügbarkeitsanzeige der Document Availability Information API(DAIA)
-Unterschiede
-Ausblick
+-Vefügbarkeitsanzeigen: Vergleich mit der Verfügbarkeitsanzeige der Document Availability Information API(DAIA)
+-Unterschiede
+-Ausblick
 
 ## Einleitung
 Der folgende Text befasst sich mit dem Vergleich verschiedener Verfügbarkeitsanzeigen in Bibliothekssystemen.
