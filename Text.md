@@ -1,12 +1,15 @@
 ###Inhaltssverzeichnis
 Einleitung
-Lokale Bibliothekssystem (LBS)
-Oldenburgisches Regionales Bibliotheks- und Informationssystem(ORBIS)
-Allegro
-Integriertes Bibliotheks-Management-System (LIBERO)
-WIN Bibliothek-, Informations- und Ausleihsystem (WinBIAP)
-Bibliotheksmanagementsystem aDIS/BMS (aDIS)
-Vefügbarkeitsanzeigen Vergleich mit der Verfügbarkeitsanzeige der Document Availability Information API (DAIA)
+Verfügbarkeitsanzeigen in Bibliotheksystemen
+
+1. Lokale Bibliothekssystem (LBS)
+2. Oldenburgisches Regionales Bibliotheks- und Informationssystem(Lokale  	 Bibliothekssystem (ORBIS)
+3. Allegro
+4. Integriertes Bibliotheks-Management-System (LIBERO)
+5. WIN Bibliothek-, Informations- und Ausleihsystem (WinBIAP)
+6. Bibliotheksmanagementsystem aDIS/BMS (aDIS)
+
+Vefügbarkeitsanzeigen: Vergleich mit der Verfügbarkeitsanzeige der Document Availability Information API(DAIA)
 Unterschiede
 Ausblick
 
@@ -26,6 +29,7 @@ Freier Zugriff: Onlinetexte und Datenbanken ohne Lizenzeinschränkungen“[DAIA(
 ![Daiamodel-extract.png](images/Daiamodel-extract.png)
 ([Daiamodel-extract.png(2009)] Bild DAIA model)
 ###Verfügbarkeitsanzeigen in Bibliotheksystemen
+
 ##1. Lokale Bibliothekssystem (LBS):
 Das Lokale Bibliothekssystem (LBS)arbeitet bereits mit DAIA.
 In der Trefferübersicht ist nicht zu erkennen, ob sich ein Titel in der Bibliothek befindet, entliehen oder vorgemerkt ist. Zu diesen konkreten Informationen kommt man erst durch Anwählen des gewünschten Titels.
@@ -38,15 +42,18 @@ Bei Titeln, die entliehen sind, findet der Nutzer das eigentliche Abgabedatum de
 ![Vormerken1.jpg](images/Vormerken1.jpg)
 [LBS(© 2014)]
 Weitere Möglichkeiten wie die Verfügbarkeit im Katalog aussehen kann, sind.
+
 ## a) die Bestellung
 4.
 ![BestellenMagazin.jpg](images/BestellenMagazin.jpg)
 [LBS(© 2014)]
+
 ## b) der Präsenzbestand
 5.
 ![Praesenz.jpg](images/Praesenz.jpg)
 [LBS(© 2014)]
 Die hier aufgeführten Verfügbarkeitsmöglichkeiten finden sich fast überall wieder, je nach Bibliothekssystem unterscheiden sich Darstellung und Formulierung.  
+
 ##2. ORBIS
 Im Bibliothekssystem ORBIS gleichtdie Übersicht der im LBS: auch hier muss erst der gewünschte Titel ausgewählt werden, um die gesuchte Information zu bekommen.
 Ein auffälliger Unterschied zum LBS ist jedoch die Spalte „Hinweis“. In dieser findet der Nutzer die Information, für welchen Zeitraum er den Titel ausleihen kann. Im Bibliotheksystemm ORBIS gibt es folgende Ansichten:
@@ -66,11 +73,11 @@ In dem Bibliothekssystem WinBIAP findet man bereits in der Trefferübersicht ein
 7.
 ![_bersichtkurz.jpg](images/_bersichtkurz.jpg)
 [WINBiap(2011)]
+
 ## 6.Bibliotheksmanagementsystem aDIS/BMS (aDIS): 
 aDIS hat in der Trefferübersicht Symbole, die gedeutet werden können. Eine Schwierigkeit ist allerdings, dass ein Symbol mehrfach mit verschiedenen Verfügbarkeitsmöglichekeiten belegt ist.
 
-## Vergleich Vefügbarkeitsanzeigen Vergleich mit der Verfügbarkeitsanzeige der Document Availability Information API (DAIA): 
-## Vergleich mit DAIA
+## Vefügbarkeitsanzeigen: Vergleich mit der Verfügbarkeitsanzeige der Document Availability Information API(DAIA): 
 8.
 ![Vergleichstabelle.JPG](images/Vergleichstabelle.JPG)
 [Vergleichstabelle(2014)]
