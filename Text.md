@@ -1,4 +1,4 @@
-###Inhaltssverzeichnis
+###Inhaltsverzeichnis
 Einleitung
 Verfügbarkeitsanzeigen in Bibliotheksystemen
 
