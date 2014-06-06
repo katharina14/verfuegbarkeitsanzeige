@@ -1,21 +1,21 @@
 # Einleitung
 
 Der folgende Text befasst sich mit dem Vergleich verschiedener Verfügbarkeitsanzeigen in Bibliothekssystemen.
-Es gibt zahlreiche Bibliothekssysteme.Die in dieser Arbeitaufgeführten Systeme  LBS, LIBERO, aDIS, Allegro, ORBIS und WinBIAP geben nur einen kleinen Einblick. Ebenso wie die meisten anderen Bibliothekssysteme bieten sie  folgende Funktionen: Katalogisierung, Ausleih- undErwerbungssystem und den Katalog. Das ist für Nutzer und Mitarbeiter gleichermaßen komfortabel. 
+Es gibt zahlreiche Bibliothekssysteme. Die in dieser arbeitaufgeführten Systeme  LBS, LIBERO, aDIS, Allegro, ORBIS und WinBIAP geben nur einen kleinen Einblick. Ebenso wie die meisten anderen Bibliothekssysteme bieten sie  folgende Funktionen: Katalogisierung, Ausleih- und Erwerbungssystem und den Katalog. Das ist für Nutzer und Mitarbeiter gleichermaßen komfortabel. 
 Document Availability Information API (DAIA):
-DAIA bedeutet “Document Availability Information API“ (Programmierschnittstelle). Es wurde vom vgl. Gemeinsamer Bibliotheksverbund (GBV), dem hessische Bibliotheksinformationssystem HeBIS und dem Beluga Projekt der Hambuger Bibliotheken entwickelt[Verfügbarkeitsrecherche mit DAIA(2014)]
-Das “Ziel ist es, eine einfache und einheitliche Methode zu schaffen, um bei beliebigen Bibliothekssystemen anzufragen, ob ein bestimmter Titel zur Zeit verfügbar, d.h. einsehbar oder ausleihbar, ist.“ [Verfügbarkeitsrecherche mit DAIA(2014)]
+DAIA bedeutet “Document Availability Information API“ (Programmierschnittstelle). Es wurde vom vgl. Gemeinsamer Bibliotheksverbund (GBV), dem hessischen Bibliotheksinformationssystem HeBIS und dem Beluga Projekt der Hambuger Bibliotheken entwickelt [Verfügbarkeitsrecherche mit DAIA(2014)]
+Das “Ziel ist es, eine einfache und einheitliche Methode zu schaffen, um bei beliebigen Bibliothekssystemen anzufragen, ob ein bestimmter Titel zurzeit verfügbar, d.h. einsehbar oder ausleihbar, ist.“ [Verfügbarkeitsrecherche mit DAIA(2014)]
 DAIA beschränkt sich bei der Verfügbarkeitsanzeige ausschließlich auf eine angewählte Bibliothek. Im Regelfall ruft man den Katalog des betreffenden Hauses auf und recherchiert im dortigen Opac. Das heißt, der Nutzer stellt auf elektronischem Wege die Anfrage, ob der gesuchte Titel sich im Hause befindet. Durch das integrierte DAIA Datenmodell sowie die Programmierschnittstelle(API) gibt das System innerhalb eines kurzen Augenblickes die vom Nutzer gesuchte Information zurück. Lautet die Auskunft, dass der gesuchte Titel nicht im Hause, sondern entliehen ist, besteht die Möglichkeit der Vormerkung. 
 Die Verfügbarkeitanzeige der DAIA unterteilt sich in „vier Dienstleistungen“ [DAIA(2009)]
 Die „lokale Einsehbarkeit“: Präsenz[bestand], Datenbanken die nur im Haus genutzt werden können. [DAIA(2009)]
-Die „lokaleAusleihbarkeit“: Datenbanken, die von zu Hause über den Bibliotheksaccount genutzt werden können .[DAIA(2009)]
+Die „lokale Ausleihbarkeit“: Datenbanken, die von zu Hause über den Bibliotheksaccount genutzt werden können .[DAIA(2009)]
 „Externe Ausleihbarkeit / Fernleihe: Auch Datenbanken, die von Nutzern anderer Einrichtungen remote genutzt werden dürfen, zum Beispiel Nationallizenzen.
 Freier Zugriff: Onlinetexte und Datenbanken ohne Lizenzeinschränkungen“[DAIA(2009)]
 1.
 ![Daiamodel-extract.png](images/Daiamodel-extract.png)
 ([Daiamodel-extract.png(2009)] Bild DAIA model)
 
-# Verfügbarkeitsanzeigen in Bibliotheksystemen
+# Verfügbarkeitsanzeigen in Bibliothekssystemen
 
 ## Lokale Bibliothekssystem (LBS)
 
@@ -89,5 +89,5 @@ Alles in allem kann man sagen, dass die Entwicklung des DAIA für ein einheitlic
 Als ein mögliches neues Ziel könnte die Entleihbarkeit bei Vormerkungen/Bestellungen einheitlich gestaltet werden. Derzeitig gibt es die verschiedensten Varianten. Nach einer Suche im Katalog nach einem vorgemerkten Buch bekommt man sofort den entsprechenden Button angezeigt. Nach Betätigen des Buttons soll man sich anmelden, um die Reservierung/Vormerkung dem Nutzer zuzuordnen.
 Bei anderen Systemen wird die Möglichkeit der Vormerkung/Bestellung erst nach der Anmeldung angeboten.
 Ein weiteres Ziel wäre, wie oben beschrieben, in der Trefferübersicht eine weitere Spalte anzufügen, um dem Nutzer gleich aufzuzeigen, ob der Titel im Haus ist oder ob er ihn bestellen/vormerken kann.
-Ein großes Ziel wäre eine einheitliche Formulierung in den Verfügbarkeitsanzeigen zu schaffen. Derzeitig ist die Formulierung noch sehr offen und mehrdeutig.
+Großes Ziel wäre eine einheitliche Formulierung in den Verfügbarkeitsanzeigen zu schaffen. Derzeitig ist die Formulierung noch sehr offen und mehrdeutig.
 
